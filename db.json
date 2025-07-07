@@ -1,0 +1,225 @@
+{
+  "buku": [
+    {
+      "id": "1",
+      "judul": "Laskar Pelangi",
+      "pengarang": "Andrea Hirata",
+      "genre": "Novel",
+      "sinopsis": "Kisah persahabatan 10 anak di Belitung yang penuh lika-liku kehidupan.",
+      "rating": 4.7,
+      "gambar": "/img/buku/laskar-pelangi.jpg",
+      "tersedia": true
+    },
+    {
+      "id": "2",
+      "judul": "Dilan 1990",
+      "pengarang": "Pidi Baiq",
+      "genre": "Novel Romantis",
+      "sinopsis": "Kisah cinta masa SMA antara Dilan dan Milea di Bandung tahun 1990.",
+      "rating": 4.5,
+      "gambar": "/img/buku/dilan-1990.jpg",
+      "tersedia": true
+    },
+    {
+      "id": "3",
+      "judul": "Naruto Vol. 1",
+      "pengarang": "Masashi Kishimoto",
+      "genre": "Komik Shonen",
+      "sinopsis": "Petualangan Naruto Uzumaki, ninja muda yang bercita-cita menjadi Hokage.",
+      "rating": 4.8,
+      "gambar": "/img/buku/naruto.jpg",
+      "tersedia": true
+    },
+    {
+      "id": "4",
+      "judul": "Bumi Manusia",
+      "pengarang": "Pramoedya Ananta Toer",
+      "genre": "Novel Sejarah",
+      "sinopsis": "Kisah Minke, pemuda Jawa di era kolonial yang mencari jati diri.",
+      "rating": 4.9,
+      "gambar": "/img/buku/bumi-manusia.jpg",
+      "tersedia": false
+    },
+    {
+      "id": "5",
+      "judul": "One Piece Vol. 1",
+      "pengarang": "Eiichiro Oda",
+      "genre": "Komik Petualangan",
+      "sinopsis": "Petualangan Luffy dan kru Topi Jerami mencari harta karun legendaris.",
+      "rating": 4.9,
+      "gambar": "/img/buku/one-piece.jpg",
+      "tersedia": true
+    },
+    {
+      "id": "6",
+      "judul": "Perahu Kertas",
+      "pengarang": "Dee Lestari",
+      "genre": "Novel Romantis",
+      "sinopsis": "Kisah cinta rumit antara Keenan dan Kugy yang penuh lika-liku.",
+      "rating": 4.4,
+      "gambar": "/img/buku/perahu-kertas.jpg",
+      "tersedia": true
+    },
+    {
+      "id": "7",
+      "judul": "Detektif Conan Vol. 1",
+      "pengarang": "Gosho Aoyama",
+      "genre": "Komik Detektif",
+      "sinopsis": "Shinichi Kudo yang berubah menjadi anak kecil dan memecahkan berbagai kasus.",
+      "rating": 4.6,
+      "gambar": "/img/buku/detektif-conan.jpg",
+      "tersedia": true
+    },
+    {
+      "id": "8",
+      "judul": "Ronggeng Dukuh Paruk",
+      "pengarang": "Ahmad Tohari",
+      "genre": "Novel",
+      "sinopsis": "Kisah tragis seorang penari ronggeng di pedesaan Jawa tahun 1960-an.",
+      "rating": 4.5,
+      "gambar": "/img/buku/ronggeng-dukuh-paruk.jpg",
+      "tersedia": true
+    },
+    {
+      "id": "9939",
+      "judul": "dragon ball",
+      "pengarang": "misal: saya",
+      "genre": "Komik",
+      "sinopsis": "kisah goku",
+      "gambar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gramedia.com%2Fproducts%2Fdragon-ball-super-vol-1%3Fsrsltid%3DAfmBOorTLYE9f53_Ha-Qubc-PCUruP-fmGl948ahXPBU9QNkOB-COKnm&psig=AOvVaw3jETb2dkmgCvFW0W39pOFp&ust=1751919974009000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOiQ2tCIqY4DFQAAAAAdAAAAABAE",
+      "rating": 0,
+      "tersedia": true
+    },
+    {
+      "id": "d5bf",
+      "judul": "jujutsu kaisen",
+      "pengarang": "makkoji",
+      "genre": "Komik",
+      "sinopsis": "kisah lelaki petarung",
+      "gambar": "",
+      "rating": 0,
+      "tersedia": true
+    }
+  ],
+  "riwayat": [
+    {
+      "id": "1",
+      "judul": "Laskar Pelangi",
+      "pengarang": "Andrea Hirata",
+      "gambar": "/img/buku/laskar-pelangi.jpg",
+      "tanggalPinjam": "2023-05-15",
+      "tanggalKembali": "2023-06-01",
+      "status": "dikembalikan"
+    },
+    {
+      "id": "2",
+      "judul": "Naruto Vol. 1",
+      "pengarang": "Masashi Kishimoto",
+      "gambar": "/img/buku/naruto.jpg",
+      "tanggalPinjam": "2023-06-10",
+      "tanggalKembali": "",
+      "status": "dipinjam"
+    },
+    {
+      "id": "3",
+      "judul": "Dilan 1990",
+      "pengarang": "Pidi Baiq",
+      "gambar": "/img/buku/dilan-1990.jpg",
+      "tanggalPinjam": "2023-04-20",
+      "tanggalKembali": "2023-05-05",
+      "status": "dikembalikan"
+    }
+  ],
+  "kategori": [
+    {
+      "id": "1",
+      "nama": "Novel",
+      "emoji": "📖",
+      "jumlah": 42
+    },
+    {
+      "id": "2",
+      "nama": "Komik",
+      "emoji": "🖍️",
+      "jumlah": 35
+    },
+    {
+      "id": "3",
+      "nama": "Cerpen",
+      "emoji": "📝",
+      "jumlah": 28
+    },
+    {
+      "id": "4",
+      "nama": "Fantasi",
+      "emoji": "🧙",
+      "jumlah": 19
+    },
+    {
+      "id": "5",
+      "nama": "Romantis",
+      "emoji": "💘",
+      "jumlah": 31
+    },
+    {
+      "id": "6",
+      "nama": "Misteri",
+      "emoji": "🕵️",
+      "jumlah": 22
+    },
+    {
+      "id": "7",
+      "nama": "Petualangan",
+      "emoji": "🗺️",
+      "jumlah": 27
+    },
+    {
+      "id": "8",
+      "nama": "Sejarah",
+      "emoji": "🏛️",
+      "jumlah": 15
+    }
+  ],
+  "populer": [
+    {
+      "id": "1",
+      "judul": "Laskar Pelangi",
+      "pengarang": "Andrea Hirata",
+      "dipinjam": 128,
+      "rating": 4.7,
+      "gambar": "/img/buku/laskar-pelangi.jpg"
+    },
+    {
+      "id": "2",
+      "judul": "Dilan 1990",
+      "pengarang": "Pidi Baiq",
+      "dipinjam": 115,
+      "rating": 4.5,
+      "gambar": "/img/buku/dilan-1990.jpg"
+    },
+    {
+      "id": "3",
+      "judul": "One Piece Vol. 1",
+      "pengarang": "Eiichiro Oda",
+      "dipinjam": 98,
+      "rating": 4.9,
+      "gambar": "/img/buku/one-piece.jpg"
+    },
+    {
+      "id": "4",
+      "judul": "Perahu Kertas",
+      "pengarang": "Dee Lestari",
+      "dipinjam": 87,
+      "rating": 4.4,
+      "gambar": "/img/buku/perahu-kertas.jpg"
+    },
+    {
+      "id": "5",
+      "judul": "Naruto Vol. 1",
+      "pengarang": "Masashi Kishimoto",
+      "dipinjam": 85,
+      "rating": 4.8,
+      "gambar": "/img/buku/naruto.jpg"
+    }
+  ]
+}
